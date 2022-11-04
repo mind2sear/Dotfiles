@@ -28,4 +28,6 @@ frp_0.44.0_linux_amd64/
 go/
 nginxweb/
 smartdns/
-
+.mysql_history
+.zcompdump-debian11esxi-5.8
+.zcompdump-debian11esxi-5.8.zwc
