@@ -103,3 +103,5 @@ source $ZSH/oh-my-zsh.sh
 alias ls="exa"
 alias ll="exa -al"
 alias cls="clear"
+alias vi="nvim"
+alias vim="nvim"
