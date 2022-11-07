@@ -1,1 +1,3 @@
-# Dotfiles
+# Dotfiles!
+
+Dotfiles for linux!
