@@ -7,7 +7,6 @@ node_modules/
 .bashrc
 .cache/
 .cloudflared/
-.config/
 .gitconfig
 .local/
 .npm/
@@ -35,3 +34,7 @@ smartdns/
 .mysql_history
 .zcompdump-debian11esxi-5.8
 .zcompdump-debian11esxi-5.8.zwc
+
+.config/htop
+.config/neofetch
+.config/lazygit
