@@ -101,7 +101,11 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ls="exa"
-alias ll="exa -al"
+alias ll="exa -alh"
 alias cls="clear"
 alias vi="nvim"
 alias vim="nvim"
+
+
+# Set tabby working directory for open sftp file explore
+precmd () { echo -n "\x1b]1337;CurrentDir=$(pwd)\x07" }
