@@ -38,3 +38,4 @@ smartdns/
 .config/htop
 .config/neofetch
 .config/lazygit
+.config/nvim
