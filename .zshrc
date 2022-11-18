@@ -105,7 +105,7 @@ alias ll="exa -alh"
 alias cls="clear"
 alias vi="nvim"
 alias vim="nvim"
-
+alias gh="cd ~"
 
 # Set tabby working directory for open sftp file explore
 precmd () { echo -n "\x1b]1337;CurrentDir=$(pwd)\x07" }
