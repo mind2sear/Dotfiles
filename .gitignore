@@ -43,3 +43,8 @@ smartdns/
 .zcompdump-Debian12-K41-5.9
 .zcompdump-Debian12-K41-5.9.zwc
 lazygit
+Dotfiles
+config.yml
+config.yml
+nerd-fonts
+.config/ranger/plugins/__pycache__/__init__.cpython-311.opt-1.pyc
