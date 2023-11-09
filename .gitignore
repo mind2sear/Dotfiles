@@ -39,3 +39,7 @@ smartdns/
 .config/neofetch
 .config/lazygit
 .config/nvim
+.lesshst
+.zcompdump-Debian12-K41-5.9
+.zcompdump-Debian12-K41-5.9.zwc
+lazygit
